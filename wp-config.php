@@ -9,3 +9,5 @@ dev-internal.example.com
 
 
 api-secret = "aaaaaaaaaaaa"
+
+shodan_api = "jn7wbEGfJqMUZOKmA5k7RTJJNPAbtyTG"
