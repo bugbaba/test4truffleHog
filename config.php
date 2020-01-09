@@ -1,6 +1,6 @@
 <?php
 
-$datbase = "root";
+$username = "root";
 $password = "1234";
 
 
