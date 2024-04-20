@@ -1,0 +1,7 @@
+                "method": "GET",
+                "oauth2": {
+                    "code": "",
+                    "site": "{{GlobalConstants.SFDC_Endpoint}}\/",
+                    "password": "admin@123",
+                    "username": "{{GlobalConstants.SFDC_Username}}",
+                }
